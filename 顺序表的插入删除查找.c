@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
+lll
 
 #define InitSize 10
 #define ElemType int
